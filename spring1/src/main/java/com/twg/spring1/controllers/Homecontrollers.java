@@ -150,5 +150,6 @@ public class Homecontrollers {
 	public String dairyentryDelete() {
 		return null;
 	}
+	@RequestMapping("/viewentry")
 	
 }
